@@ -1,0 +1,2 @@
+# No external dependencies required for the core tracker.
+# Uses Python's built-in json, os, datetime, collections modules.
